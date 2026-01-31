@@ -316,7 +316,7 @@ Includes:
 
 ## 👨‍💻 Author
 
-**<a href="https://pywithsanjay.github.io/" target="_blank">Sanjay Kumar Yadav</a>**
+**<a href="https://pywithsanjay.github.io/" target="_blank">Sanjay Kumar Yadav</a>** <br>
 Backend Developer — Python | Flask | REST APIs
 
 ---
