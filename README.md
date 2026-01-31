@@ -99,8 +99,8 @@ Task_manager/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/pywithsanjay/Backend-Dev-Assignment-Zippee.git
+cd Backend-Dev-Assignment-Zippee
 ```
 
 ---
