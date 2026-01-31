@@ -1,0 +1,140 @@
+2026-01-31 21:39:35,061 - INFO - Logging system initialized
+2026-01-31 21:41:06,003 - INFO - Logging system initialized
+2026-01-31 21:42:49,302 - INFO - Logging system initialized
+2026-01-31 21:49:28,224 - INFO - Logging system initialized
+2026-01-31 21:49:28,400 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 21:49:28,400 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-31 21:49:28,402 - INFO -  * Restarting with stat
+2026-01-31 21:49:28,768 - INFO - Logging system initialized
+2026-01-31 21:49:28,794 - WARNING -  * Debugger is active!
+2026-01-31 21:49:28,800 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 21:49:50,827 - INFO - 127.0.0.1 - - [31/Jan/2026 21:49:50] "[31m[1mPOST /api/add/task HTTP/1.1[0m" 403 -
+2026-01-31 21:50:01,893 - INFO - 127.0.0.1 - - [31/Jan/2026 21:50:01] "POST /api/login HTTP/1.1" 200 -
+2026-01-31 21:50:32,448 - INFO - 127.0.0.1 - - [31/Jan/2026 21:50:32] "[35m[1mPOST /api/add/task HTTP/1.1[0m" 201 -
+2026-01-31 21:57:41,348 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 21:57:41,400 - INFO -  * Restarting with stat
+2026-01-31 21:57:41,787 - INFO - Logging system initialized
+2026-01-31 21:57:41,846 - WARNING -  * Debugger is active!
+2026-01-31 21:57:41,849 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 21:57:51,912 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 21:57:51,976 - INFO -  * Restarting with stat
+2026-01-31 21:57:52,405 - INFO - Logging system initialized
+2026-01-31 21:57:52,473 - WARNING -  * Debugger is active!
+2026-01-31 21:57:52,476 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 21:58:35,834 - INFO - 127.0.0.1 - - [31/Jan/2026 21:58:35] "GET /api/tasks?page=2 HTTP/1.1" 200 -
+2026-01-31 21:58:41,627 - INFO - 127.0.0.1 - - [31/Jan/2026 21:58:41] "GET /api/tasks?page=1 HTTP/1.1" 200 -
+2026-01-31 22:13:43,861 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:13:43,941 - INFO -  * Restarting with stat
+2026-01-31 22:13:44,409 - INFO - Logging system initialized
+2026-01-31 22:13:44,472 - WARNING -  * Debugger is active!
+2026-01-31 22:13:44,475 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:14:00,578 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:14:00,635 - INFO -  * Restarting with stat
+2026-01-31 22:14:01,032 - INFO - Logging system initialized
+2026-01-31 22:14:01,084 - WARNING -  * Debugger is active!
+2026-01-31 22:14:01,087 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:14:09,183 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:14:09,227 - INFO -  * Restarting with stat
+2026-01-31 22:14:09,621 - INFO - Logging system initialized
+2026-01-31 22:14:09,666 - WARNING -  * Debugger is active!
+2026-01-31 22:14:09,670 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:20:35,115 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:20:35,171 - INFO -  * Restarting with stat
+2026-01-31 22:20:35,597 - INFO - Logging system initialized
+2026-01-31 22:22:08,824 - INFO - Logging system initialized
+2026-01-31 22:22:08,884 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 22:22:08,884 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-31 22:22:08,885 - INFO -  * Restarting with stat
+2026-01-31 22:22:09,221 - INFO - Logging system initialized
+2026-01-31 22:22:09,246 - WARNING -  * Debugger is active!
+2026-01-31 22:22:09,250 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:22:18,022 - INFO - 127.0.0.1 - - [31/Jan/2026 22:22:18] "[35m[1mDELETE /api/remove/tasks/2 HTTP/1.1[0m" 500 -
+2026-01-31 22:22:40,467 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:22:40,510 - INFO -  * Restarting with stat
+2026-01-31 22:22:40,868 - INFO - Logging system initialized
+2026-01-31 22:22:40,914 - WARNING -  * Debugger is active!
+2026-01-31 22:22:40,917 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:26:02,094 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:26:02,134 - INFO -  * Restarting with stat
+2026-01-31 22:26:02,490 - INFO - Logging system initialized
+2026-01-31 22:26:02,538 - WARNING -  * Debugger is active!
+2026-01-31 22:26:02,542 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:26:17,631 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:26:17,673 - INFO -  * Restarting with stat
+2026-01-31 22:26:18,139 - INFO - Logging system initialized
+2026-01-31 22:26:18,191 - WARNING -  * Debugger is active!
+2026-01-31 22:26:18,195 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:26:38,329 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:26:38,374 - INFO -  * Restarting with stat
+2026-01-31 22:26:38,779 - INFO - Logging system initialized
+2026-01-31 22:26:38,830 - WARNING -  * Debugger is active!
+2026-01-31 22:26:38,833 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:26:56,962 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:26:57,001 - INFO -  * Restarting with stat
+2026-01-31 22:26:57,359 - INFO - Logging system initialized
+2026-01-31 22:26:57,411 - WARNING -  * Debugger is active!
+2026-01-31 22:26:57,416 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:27:08,638 - INFO - Logging system initialized
+2026-01-31 22:27:08,689 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 22:27:08,689 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-31 22:27:08,690 - INFO -  * Restarting with stat
+2026-01-31 22:27:09,034 - INFO - Logging system initialized
+2026-01-31 22:27:09,060 - WARNING -  * Debugger is active!
+2026-01-31 22:27:09,064 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:27:17,331 - INFO - 127.0.0.1 - - [31/Jan/2026 22:27:17] "DELETE /api/remove/tasks/2 HTTP/1.1" 200 -
+2026-01-31 22:27:29,058 - INFO - 127.0.0.1 - - [31/Jan/2026 22:27:29] "GET /api/tasks?page=1 HTTP/1.1" 200 -
+2026-01-31 22:27:49,526 - INFO - 127.0.0.1 - - [31/Jan/2026 22:27:49] "[35m[1mPOST /api/add/task HTTP/1.1[0m" 201 -
+2026-01-31 22:28:52,738 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:28:52,778 - INFO -  * Restarting with stat
+2026-01-31 22:28:53,129 - INFO - Logging system initialized
+2026-01-31 22:28:53,179 - WARNING -  * Debugger is active!
+2026-01-31 22:28:53,182 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:29:10,336 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:29:10,375 - INFO -  * Restarting with stat
+2026-01-31 22:29:10,745 - INFO - Logging system initialized
+2026-01-31 22:29:10,797 - WARNING -  * Debugger is active!
+2026-01-31 22:29:10,801 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:29:19,548 - INFO - Logging system initialized
+2026-01-31 22:29:19,596 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 22:29:19,596 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-31 22:29:19,597 - INFO -  * Restarting with stat
+2026-01-31 22:29:19,954 - INFO - Logging system initialized
+2026-01-31 22:29:19,985 - WARNING -  * Debugger is active!
+2026-01-31 22:29:19,988 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:32:52,457 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:32:52,507 - INFO -  * Restarting with stat
+2026-01-31 22:32:52,884 - INFO - Logging system initialized
+2026-01-31 22:32:52,939 - WARNING -  * Debugger is active!
+2026-01-31 22:32:52,943 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:33:06,030 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-01-31 22:33:06,070 - INFO -  * Restarting with stat
+2026-01-31 22:33:06,535 - INFO - Logging system initialized
+2026-01-31 22:33:06,600 - WARNING -  * Debugger is active!
+2026-01-31 22:33:06,605 - INFO -  * Debugger PIN: 815-832-757
+2026-01-31 22:40:10,566 - INFO - 127.0.0.1 - - [31/Jan/2026 22:40:10] "[31m[1mGET /api/task/update/1 HTTP/1.1[0m" 405 -
+2026-01-31 22:40:46,229 - INFO - 127.0.0.1 - - [31/Jan/2026 22:40:46] "[31m[1mGET /api/task/update/1 HTTP/1.1[0m" 405 -
+2026-01-31 22:40:58,977 - INFO - 127.0.0.1 - - [31/Jan/2026 22:40:58] "PUT /api/task/update/1 HTTP/1.1" 200 -
+2026-02-01 00:00:08,424 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-02-01 00:00:08,520 - INFO -  * Restarting with stat
+2026-02-01 00:00:08,920 - INFO - Logging system initialized
+2026-02-01 00:00:25,516 - INFO - Logging system initialized
+2026-02-01 00:00:25,587 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-01 00:00:25,587 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-01 00:00:25,588 - INFO -  * Restarting with stat
+2026-02-01 00:00:25,933 - INFO - Logging system initialized
+2026-02-01 00:00:25,962 - WARNING -  * Debugger is active!
+2026-02-01 00:00:25,965 - INFO -  * Debugger PIN: 815-832-757
+2026-02-01 00:00:41,478 - INFO - 127.0.0.1 - - [01/Feb/2026 00:00:41] "GET /api/tasks?page=1 HTTP/1.1" 200 -
+2026-02-01 00:00:54,521 - INFO - 127.0.0.1 - - [01/Feb/2026 00:00:54] "[33mGET /api/tasks/id=1 HTTP/1.1[0m" 404 -
+2026-02-01 00:01:15,299 - INFO -  * Detected change in 'C:\\Users\\user\\Documents\\Assignment Project\\Task_nanager\\app\\routes\\tasks.py', reloading
+2026-02-01 00:01:15,350 - INFO -  * Restarting with stat
+2026-02-01 00:01:15,765 - INFO - Logging system initialized
+2026-02-01 00:01:15,831 - WARNING -  * Debugger is active!
+2026-02-01 00:01:15,836 - INFO -  * Debugger PIN: 815-832-757
+2026-02-01 00:01:23,992 - INFO - 127.0.0.1 - - [01/Feb/2026 00:01:23] "[33mGET /api/tasks/id=1 HTTP/1.1[0m" 404 -
+2026-02-01 00:02:18,020 - INFO - 127.0.0.1 - - [01/Feb/2026 00:02:18] "GET /api/tasks/1 HTTP/1.1" 200 -
