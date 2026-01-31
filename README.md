@@ -316,7 +316,7 @@ Includes:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**<a href="https://pywithsanjay.github.io/" target="_blank">Sanjay Kumar Yadav</a>**
 Backend Developer — Python | Flask | REST APIs
 
 ---
@@ -326,13 +326,3 @@ Backend Developer — Python | Flask | REST APIs
 Give it a ⭐ on GitHub — it helps a lot!
 
 ---
-
-# 🎯 Want a Power Upgrade?
-
-I can generate for you:
-✅ **Swagger UI (`/docs`)**
-✅ **Dockerfile + Deployment Guide**
-✅ **GitHub Actions CI**
-✅ **Database Version (SQLite/Postgres)**
-
-Just say **“Make it production deployable”** 🚀
